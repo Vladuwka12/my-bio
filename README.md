@@ -24,7 +24,7 @@ Coming soon...
 
 | Award | Description |
 |------------|-----------|
-| <img src="https://i.ibb.co/rwFWSrv/image-3.png" alt="1" width="200"/> | I conquered a turtle 
+| <img src="https://i.ibb.co/rwFWSrv/image-3.png" alt="1" width="200"/> | I learned a turtle 
 | And many rewards, but i cant find it...
 
 ## ⏳ Time spent learning Python
