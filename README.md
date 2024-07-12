@@ -4,8 +4,8 @@
 
 Welcome to my GitHub Profile! Im a beginner developer and Diabetic that love Python, custom roms, linux, and etc.
 
-## 📂 Best of my Projects (btw, my projects in russian so use deepl)
-
+## 📂 Best of my Projects
+# BTW, my projects in russian, so use DEEPL!
 | Projects | Links |
 |--------|--------|
 | **UFO Invaders**<br>Just a Space Invaders bootleg but with UFO's.  | [Link](https://hub.kodland.org/en/project/285410) |
