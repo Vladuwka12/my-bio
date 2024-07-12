@@ -20,7 +20,7 @@ Welcome to my GitHub Profile! Im a beginner developer and Diabetic that love Pyt
 
 Coming soon...
 
-### Awards and Recognition
+### Awards
 
 | Award | Description |
 |------------|-----------|
