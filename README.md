@@ -9,7 +9,7 @@ Welcome to me GitHub Profile! Im a beginner developer, Diabetic that love Python
 | Projects | Links |
 |--------|--------|
 | **UFO Invaders**<br>Just a Space Invaders bootleg but with UFO's.  | [Link](https://hub.kodland.org/en/project/285410) |
-| **Quiz Python**<br>Quiz with questions from Python. | [Link](https://hub.kodland.org/en/project/259354) |
+| **Quiz about Python**<br>Quiz with questions about Python. | [Link](https://hub.kodland.org/en/project/259354) |
 | **Virtual Assistant**<br>Virtual Assistant that can make commands like generating random number. And etc. | [Link](https://hub.kodland.org/en/project/257059) |
 
 ## 🏆 My Progress
